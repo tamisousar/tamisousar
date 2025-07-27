@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm passionate about building practical solutions using **data, engineering**, and a bit of creativity.  
 Whether it's optimising industrial processes, automating workflows, or exploring business data,  
